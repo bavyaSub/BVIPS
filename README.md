@@ -7,8 +7,7 @@ Dataset (Not included in the repository)
   
 • Shotgun metagenomic sequencing
 
-• Non-CF bronchiectasis sputum microbiome
-
+• Non-CF bronchiectasis sputum microbiome  
 
 
 Workflow:
