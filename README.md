@@ -3,8 +3,10 @@ Computational mapping of vascular inflammatory potential in bronchiectasis throu
 
 Dataset (Not included in the repository)  
 
-- BioProjectID: PRJEB65368
+• BioProjectID: PRJEB65368
+  
 • Shotgun metagenomic sequencing
+
 • Non-CF bronchiectasis sputum microbiome
 
 Workflow:
