@@ -1,7 +1,9 @@
 # BVIPS
 Computational mapping of vascular inflammatory potential in bronchiectasis through airway microbiome endotyping.
 
-Dataset (Not included in the repository)  - BioProjectID: PRJEB65368
+Dataset (Not included in the repository)  
+
+- BioProjectID: PRJEB65368
 • Shotgun metagenomic sequencing
 • Non-CF bronchiectasis sputum microbiome
 
