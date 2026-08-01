@@ -24,10 +24,13 @@ Inflammatory Feature Engineering
   - Tissue injury burden
   - Pathogen burden
         ↓
+
 Microbial Inflammatory Endotyping
   - Feature-based clustering
   - Inflammatory ecosystem states
         ↓
+
 BVIPS (Bronchiectasis Vascular Inflammatory Potential Score) Calculation
         ↓
+        
 Visualization
