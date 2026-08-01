@@ -1,7 +1,7 @@
 # BVIPS
 Computational mapping of vascular inflammatory potential in bronchiectasis through airway microbiome endotyping.
 
-Dataset (Not included in the repository)  
+Public Dataset (Not included in the repository)  
 
 • BioProjectID: PRJEB65368
   
