@@ -9,12 +9,14 @@ Dataset (Not included in the repository)
 Workflow:
 
 Data Preprocessing:
-        
-Microbiome Characterization
+         ↓
+         
+Microbiome Characterization:
   - Relative abundance
   - CLR transformation
   - Alpha & Beta Diversity
-
+         ↓ 
+ 
 Inflammatory Feature Engineering
 (Custom inflammatory scoring calculations and an annotation process was done. They are within the Jupyter notebook but are not provided as separate files)
   - Dysbiosis burden
