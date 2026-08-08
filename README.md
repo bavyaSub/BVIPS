@@ -22,7 +22,7 @@ Microbiome Characterization:
          ↓ 
  
 Inflammatory Feature Engineering
-(Custom inflammatory scoring calculations and an annotation process was done. They are within the Jupyter notebook but are not provided as separate files)
+(Custom inflammatory scoring calculations and an annotation process was done. They are within the Jupyter notebook but are not provided as separate files.)
   - Dysbiosis burden
   - LPS burden
   - Tissue injury burden
